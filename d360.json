@@ -1,0 +1,167 @@
+{
+  "serializerVersion": 1,
+  "languages": [
+    {
+      "code": "en",
+      "default": true
+    },
+    {
+      "code": "fr"
+    }
+  ],
+  "nodes": [
+    {
+      "paths": [
+        {
+          "langs": [
+            "en",
+            "fr"
+          ],
+          "path": "rg2-cat-a/README.md"
+        }
+      ],
+      "children": [
+        {
+          "paths": [
+            {
+              "langs": [
+                "en",
+                "fr"
+              ],
+              "path": "rg2-cat-a/rg2-a1.md"
+            }
+          ]
+        },
+        {
+          "paths": [
+            {
+              "langs": [
+                "en",
+                "fr"
+              ],
+              "path": "rg2-cat-a/rg2-a2.md"
+            }
+          ]
+        },
+        {
+          "paths": [
+            {
+              "langs": [
+                "en"
+              ],
+              "path": "rg2-cat-a/rg2-a3.md"
+            }
+          ]
+        },
+        {
+          "paths": [
+            {
+              "langs": [
+                "en"
+              ],
+              "path": "rg2-cat-a/rg2-hidden.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paths": [
+        {
+          "langs": [
+            "en"
+          ],
+          "path": "rg2-cat-b/README.md"
+        }
+      ],
+      "children": [
+        {
+          "paths": [
+            {
+              "langs": [
+                "en"
+              ],
+              "path": "rg2-cat-b/rg2-b1.md"
+            }
+          ]
+        },
+        {
+          "paths": [
+            {
+              "langs": [
+                "en"
+              ],
+              "path": "rg2-cat-b/rg2-b2.md"
+            }
+          ]
+        },
+        {
+          "paths": [
+            {
+              "langs": [
+                "en"
+              ],
+              "path": "rg2-cat-b/rg2-sub-b1/README.md"
+            }
+          ],
+          "children": [
+            {
+              "paths": [
+                {
+                  "langs": [
+                    "en"
+                  ],
+                  "path": "rg2-cat-b/rg2-sub-b1/rg2-sub-b2/README.md"
+                }
+              ],
+              "children": [
+                {
+                  "paths": [
+                    {
+                      "langs": [
+                        "en"
+                      ],
+                      "path": "rg2-cat-b/rg2-sub-b1/rg2-sub-b2/rg2-deep.md"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paths": [
+        {
+          "langs": [
+            "en"
+          ],
+          "path": "rg2-page-c/README.md"
+        }
+      ],
+      "children": [
+        {
+          "paths": [
+            {
+              "langs": [
+                "en"
+              ],
+              "path": "rg2-page-c/rg2-c1.md"
+            }
+          ]
+        },
+        {
+          "paths": [
+            {
+              "langs": [
+                "en"
+              ],
+              "path": "rg2-page-c/rg2-c2.md"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

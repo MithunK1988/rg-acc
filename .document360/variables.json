@@ -1,0 +1,14 @@
+{
+  "variables": [
+    {
+      "name": "rg2var1",
+      "global": true,
+      "value": "rg2 value one"
+    },
+    {
+      "name": "rg2var2",
+      "global": true,
+      "value": "rg2 value two"
+    }
+  ]
+}

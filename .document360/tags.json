@@ -1,0 +1,15 @@
+{
+  "groups": [],
+  "tags": [
+    {
+      "uniqueId": "rg2-tag-1",
+      "name": "rg2-tag-1",
+      "description": "seed"
+    },
+    {
+      "uniqueId": "rg2-tag-2",
+      "name": "rg2-tag-2",
+      "description": "seed"
+    }
+  ]
+}
