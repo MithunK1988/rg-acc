@@ -1,5 +1,6 @@
 ---
 title: rg2_new2a rg2tokennew2a
+hidden: true
 seo:
   title: rg2_new2a rg2tokennew2a
 display:
