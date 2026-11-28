@@ -1,7 +1,7 @@
 ---
-title: mu1 owner
+title: mu1 renamed
 seo:
-  title: mu1 owner
+  title: mu1 renamed
 display:
   toc: true
   outline: true
