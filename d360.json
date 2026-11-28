@@ -96,6 +96,23 @@
           ]
         }
       ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "rg2-new2/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en"], "path": "rg2-new2/rg2-new2a-rg2tokennew2a.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "rg2-new2/rg2-new2b-rg2tokennew2b.md" }
+          ]
+        }
+      ]
     }
   ]
 }
