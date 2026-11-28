@@ -1,7 +1,7 @@
 ---
-title: rg2 a1
+title: rg2 a1 dwedit
 seo:
-  title: rg2 a1
+  title: rg2 a1 dwedit
 display:
   toc: true
   outline: true
