@@ -1,5 +1,5 @@
 ---
-hidden: true
+hidden: false
 title: rg2 hidden
 seo:
   title: rg2 hidden
