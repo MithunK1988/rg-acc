@@ -27,7 +27,7 @@
         },
         {
           "paths": [
-            { "langs": ["en"], "path": "rg2-cat-a/rg2-hidden.md" }
+            { "langs": ["en"], "path": "rg2-cat-a/cf14-owner.md" }
           ]
         }
       ]
@@ -64,6 +64,11 @@
                 }
               ]
             }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "rg2-cat-a/rg2-hidden.md" }
           ]
         }
       ]
