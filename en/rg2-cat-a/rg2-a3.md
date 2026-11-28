@@ -1,9 +1,9 @@
 ---
 tags:
   - rg2-tag-1
-title: rg2 a3
+title: rg2 a3_t
 seo:
-  title: rg2 a3
+  title: rg2 a3_t
 display:
   toc: true
   outline: true
