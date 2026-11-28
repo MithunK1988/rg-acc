@@ -11,6 +11,6 @@ feedback:
   comments: true
 ---
 
-Body of rg2 a3 with reuse. Variable: <span data-variable="rg2var1">{{variable.rg2var1}}</span>
+Body of rg2 a3 with reuse. Variable: <span data-variable="rg2var1">{{variable.rg2var1}}</span> pubd2
 
-{{snippet.rg2snip1}}
+[d360]: # 'snippet name="rg2snip1"'
