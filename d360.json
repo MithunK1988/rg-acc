@@ -94,11 +94,6 @@
           "paths": [
             { "langs": ["en"], "path": "rg2-prnew/rg2-prnew1-rg2tokenprnew1.md" }
           ]
-        },
-        {
-          "paths": [
-            { "langs": ["en"], "path": "rg2-prnew/rg2-prnew2-rg2tokenprnew2.md" }
-          ]
         }
       ]
     }
