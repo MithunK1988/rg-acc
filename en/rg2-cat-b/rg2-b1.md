@@ -1,5 +1,6 @@
 ---
 title: rg2 b1
+hidden: true
 seo:
   title: rg2 b1
 display:
