@@ -24,11 +24,6 @@
           "paths": [
             { "langs": ["en"], "path": "rg2-cat-a/rg2-a3.md" }
           ]
-        },
-        {
-          "paths": [
-            { "langs": ["en"], "path": "rg2-cat-a/cf14-owner.md" }
-          ]
         }
       ]
     },
@@ -69,11 +64,6 @@
         {
           "paths": [
             { "langs": ["en"], "path": "rg2-cat-a/rg2-hidden.md" }
-          ]
-        },
-        {
-          "paths": [
-            { "langs": ["en"], "path": "rg2-cat-b/mu1-owner.md" }
           ]
         }
       ]
@@ -132,6 +122,16 @@
         {
           "paths": [
             { "langs": ["en"], "path": "doc141-cat/doc141-art.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "doc141-cat/doc147-new.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "rg2-cat-b/mu1-owner.md" }
           ]
         }
       ]
