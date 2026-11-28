@@ -1,5 +1,6 @@
 ---
 title: rg2_prnew1 rg2tokenprnew1
+hidden: true
 seo:
   title: rg2_prnew1 rg2tokenprnew1
 display:
