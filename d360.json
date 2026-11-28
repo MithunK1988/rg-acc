@@ -123,6 +123,18 @@
           ]
         }
       ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "doc141-cat/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en"], "path": "doc141-cat/doc141-art.md" }
+          ]
+        }
+      ]
     }
   ]
 }
